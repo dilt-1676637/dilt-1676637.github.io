@@ -6,4 +6,11 @@ h2 {
     color: navy;
     margin-left: 20px;
 }
-
+.text2 {
+	text-align: center;
+	border-style: solid;
+	border-top-left-radius:2em;
+	border-top-right-radius:2em;
+	border-bottom-left-radius:2em;
+	border-bottom-right-radius:2em;
+}
