@@ -9,8 +9,8 @@ h2 {
 .sentence {
 	text-align: float: left;
 	border-style: solid;
-	border-top-left-radius:2em;
-	border-top-right-radius:2em;
-	border-bottom-left-radius:2em;
-	border-bottom-right-radius:2em;
+	border-top-left-radius:3em;
+	border-top-right-radius:3em;
+	border-bottom-left-radius:3em;
+	border-bottom-right-radius:3em;
 }
